@@ -1,0 +1,8 @@
+# Ignorer le dossier node_odules
+node_odules/
+
+# Ignorer les fichiers log
+*.log
+
+# Ignorer le dossier build
+dist/

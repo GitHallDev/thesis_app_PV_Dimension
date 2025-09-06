@@ -1,0 +1,14 @@
+# Ignorer tous les node_modules dans le repos
+**/node_modules/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les dossiers de build
+dist/
+build/
+
+# Ignorer les fichiers temporaires
+.DS_Store
+.env
+.env.test

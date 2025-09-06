@@ -1,0 +1,2 @@
+req.params 👉 récupère les paramètres de l'URL de type segment dynamique (comme /api/:id)
+req.query 👉 récupère les paramètres dans l’URL après le ? (ce qu’on appelle des query parameters : ?lon=...&lat=...)

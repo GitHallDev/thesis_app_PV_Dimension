@@ -1,0 +1,2 @@
+# Test for PVGIS API endpoint
+GET http://localhost:5000/api/pvgis/seriescalc?lon=-0.1276&lat=51.5074&angle=30&aspect=180&outputformat=json&startyear=2010&endyear=2020
